@@ -11,3 +11,14 @@ h1 {
 body {
   text-align: center;
 }
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0077cc;
+  color: white;
+}
